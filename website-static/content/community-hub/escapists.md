@@ -1,0 +1,5 @@
+---
+title: "Escapists"
+aliases:
+  - "/escapists/"
+---
