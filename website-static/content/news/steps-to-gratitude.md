@@ -4,4 +4,4 @@ aliases:
   - "/steps-to-gratitude/"
 ---
 
-![](/wp-content/uploads/2022/10/Steps-to-Gratitude.png)
+![](/images/2022/10/Steps-to-Gratitude.png)

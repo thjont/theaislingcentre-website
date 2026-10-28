@@ -6,7 +6,7 @@ aliases:
 
 ### children coping with loss
 
-![](/wp-content/uploads/2022/09/Play-Therapy-3.jpg)
+![](/images/2022/09/Play-Therapy-3.jpg)
 
 ### Children Coping with Loss
 
@@ -57,7 +57,7 @@ First your child will be given an appointment for an initial interview. At the i
 
 We understand that both child and parent/caregiver can find the initial interview daunting and we will endeavour to ensure that it is a positive experience for both of you. During the interview the therapist will help you decided if play therapy at the Aisling Centre is the best option for your child at this time. If not, we will work with you to find more appropriate support. If we agree that play therapy is appropriate and may benefit your child, the therapist will arrange a regular appointment time with you. Play therapy sessions are normally once a week for an agreed number of weeks.
 
-[Download this information as a leaflet](/wp-content/uploads/2022/09/AislingCentre_Leaflet-Play-Therapy-2017.pdf)
+[Download this information as a leaflet](/files/2022/09/AislingCentre_Leaflet-Play-Therapy-2017.pdf)
 
 ### Support for parents/caregivers
 
@@ -73,4 +73,4 @@ If you require counselling, please click on the link below, print out the form, 
 
 Aisling Centre, 37 Darling Street, Enniskillen, Co Fermanagh, BT74 7DP
 
-[Download Pdf](/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf)
+[Download Pdf](/files/2022/09/AC-Referral-Mar-22-2.pdf)

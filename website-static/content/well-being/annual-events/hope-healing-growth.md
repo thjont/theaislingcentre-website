@@ -26,4 +26,4 @@ All donations received by Aisling Centre are used to support our counselling and
 
 If you require counselling, please click on the link below, print out the form, fill it in and return to: Aisling Centre, 37 Darling Street, Enniskillen, Co Fermanagh, BT74 7DP
 
-[Download Pdf](https://dev.odinwebtechnologies.com/aisling/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf)
+[Download Pdf](https://dev.odinwebtechnologies.com/aisling/files/2022/09/AC-Referral-Mar-22-2.pdf)

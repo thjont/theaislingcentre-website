@@ -22,9 +22,9 @@ Since 2021 Aisling Centre has held an event to mark World Suicide Prevention Day
 
 People choose to do the trek for many different and personal reasons. Some may come to remember a loved one, others as part of their own recovery, some may enjoy the challenge, while others will attend to show solidary and support for people who are struggling with their mental health. For everyone, it is an act of self-care, an opportunity to connect and ground themselves while enjoying the many benefits of being out in nature.
 
-![](/wp-content/uploads/2022/09/IMG_0066-1024x683.jpg)
+![](/images/2022/09/IMG_0066-1024x683.jpg)
 
-![](/wp-content/uploads/2022/09/IMG_0084crop-1024x683.jpg)
+![](/images/2022/09/IMG_0084crop-1024x683.jpg)
 
 World Suicide Prevention Day, which first started in 2003, is observed across the world on 10th September annually. It aims to start a conversation about suicide and promote a worldwide message of Hope. Aisling Centre hope that organising this event will encourage people who may be considering ending their lives to talk to someone and to remind them that there is help available.
 

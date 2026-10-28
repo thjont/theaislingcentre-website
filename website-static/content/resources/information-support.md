@@ -8,9 +8,9 @@ aliases:
 
 **Aisling Centre** **Counselling, Psychotherapy Service**
 
-**Self-Referral –** download referral form [**click here**](/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf) **–** or contact the Centre
+**Self-Referral –** download referral form [**click here**](/files/2022/09/AC-Referral-Mar-22-2.pdf) **–** or contact the Centre
 
-- For information on our counselling service – [**click here**](/wp-content/uploads/2022/10/AislingCentre_Leaflet_General-002.pdf)
+- For information on our counselling service – [**click here**](/files/2022/10/AislingCentre_Leaflet_General-002.pdf)
 - For further information or to talk to someone contact 028 66 325811
 
 **24/7 Crisis Support**

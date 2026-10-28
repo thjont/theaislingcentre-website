@@ -7,4 +7,4 @@ categories:
   - "useful-resources"
 ---
 
-![](/wp-content/uploads/2022/10/Benefits-of-Books-1-683x1024.jpg)
+![](/images/2022/10/Benefits-of-Books-1-683x1024.jpg)

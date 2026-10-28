@@ -4,7 +4,7 @@ aliases:
   - "/westend-coffee-shop/"
 ---
 
-![](/wp-content/uploads/2026/03/caption-1.jpg)
+![](/images/2026/03/caption-1.jpg)
 
 **Westend Coffee Shop**
 

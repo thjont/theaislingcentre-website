@@ -6,7 +6,7 @@ aliases:
 
 ### Complementary Therapy
 
-![](/wp-content/uploads/2022/09/yoga-scaled.jpg)
+![](/images/2022/09/yoga-scaled.jpg)
 
 ### Mindfulness Meditation
 
@@ -18,13 +18,13 @@ Research has shown that incorporating Mindfulness into a busy lifestyle can lead
 
 ***“My racing mind ‘must do’, ‘didn’t do’ etc. has slowed down considerably”***
 
-[***Mindfulness Meditation Information Leaflet***](/wp-content/uploads/2023/08/AislingCentre_Leaflet_MindfulMeditation.pdf)
+[***Mindfulness Meditation Information Leaflet***](/files/2023/08/AislingCentre_Leaflet_MindfulMeditation.pdf)
 
 [***Upcoming Mindfulness events***](/well-being/workshops-programmes/)
 
-![](/wp-content/uploads/2022/09/IMG_0035-1024x683.jpg)
+![](/images/2022/09/IMG_0035-1024x683.jpg)
 
-![](/wp-content/uploads/2022/09/IMG_0041-600x400.jpg)
+![](/images/2022/09/IMG_0041-600x400.jpg)
 
 ### Complementary Therapy
 
@@ -46,4 +46,4 @@ Complementary Therapy treatments can help you relax and give an improved sense o
 
 If you require counselling, please click on the link below, print out the form, fill it in and return to: Aisling Centre, 37 Darling Street, Enniskillen, Co Fermanagh, BT74 7DP
 
-[Download Pdf](/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf)
+[Download Pdf](/files/2022/09/AC-Referral-Mar-22-2.pdf)

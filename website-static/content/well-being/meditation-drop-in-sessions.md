@@ -28,4 +28,4 @@ For further info:
 
 Email [info@theaislingcentre.com](mailto:info@theaislingcentre.com) Tel 028 6632 5811
 
-![](/wp-content/uploads/2023/02/MindfulnessSetUp.jpg)
+![](/images/2023/02/MindfulnessSetUp.jpg)

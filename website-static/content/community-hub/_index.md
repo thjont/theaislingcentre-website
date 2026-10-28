@@ -12,7 +12,7 @@ We also have numerous [workshops and classes](/community-hub/workshops-classes/)
 
 #### **OTHER SERVICES**
 
-![Westend Coffee Shop](/wp-content/uploads/elementor/thumbs/Declan-Coffee-shop2-pv3ghtvevkn2yac4t7x1w4z92h4ocvjd4ftfpeq8c8.jpg)
+![Westend Coffee Shop](/images/elementor/thumbs/Declan-Coffee-shop2-pv3ghtvevkn2yac4t7x1w4z92h4ocvjd4ftfpeq8c8.jpg)
 
 Westend Coffee Shop
 
@@ -26,7 +26,7 @@ T: 028 6634 0475
 
 M: 079 7997 500
 
-![](/wp-content/uploads/2022/10/Zest.jpg)
+![](/images/2022/10/Zest.jpg)
 
 ZEST Healing the Hurt (SHIP)  
 *Counselling and support for people who self-harm.*    

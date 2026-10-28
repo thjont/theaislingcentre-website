@@ -56,7 +56,7 @@ or
 
 [DONATE NOW](https://localgiving.org/aislingcentre)
 
-#### **Give Hope** by setting up a standing order using **[this form](/wp-content/uploads/2022/10/Give-Hope-Tri-fold.pdf)**
+#### **Give Hope** by setting up a standing order using **[this form](/files/2022/10/Give-Hope-Tri-fold.pdf)**
 
 **W****ays you can fundraise for us:**
 

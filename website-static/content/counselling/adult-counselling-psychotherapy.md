@@ -6,7 +6,7 @@ aliases:
 
 ### Adult Counselling / Psychotherapy
 
-![](/wp-content/uploads/2022/09/P1000805-scaled.jpg)
+![](/images/2022/09/P1000805-scaled.jpg)
 
 ### Adult Counselling / Psychotherapy
 
@@ -85,10 +85,10 @@ Counselling sessions are normally once a week (on the same day and time) for an 
 
 ***“From dreading each day I now look forward to the future”***
 
-[Download this information as a leaflet](/wp-content/uploads/2023/08/AislingCentre_Leaflet_CouncellingServicesWEB.pdf)
+[Download this information as a leaflet](/files/2023/08/AislingCentre_Leaflet_CouncellingServicesWEB.pdf)
 
 ### Request for Counselling
 
 If you require Counselling, please click on the link to download and complete our referral form.
 
-[Download Pdf](/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf)
+[Download Pdf](/files/2022/09/AC-Referral-Mar-22-2.pdf)

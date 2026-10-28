@@ -32,4 +32,4 @@ If you are concerned about a child or young person, your first point of contact 
 
 If you require counselling, please click on the link below, print out the form, fill it in and return to: Aisling Centre, 37 Darling Street, Enniskillen, Co Fermanagh, BT74 7DP
 
-[Download Pdf](/wp-content/uploads/2022/09/AC-Referral-Mar-22-2.pdf)
+[Download Pdf](/files/2022/09/AC-Referral-Mar-22-2.pdf)
