@@ -1,3 +1,230 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://theaislingcentre.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+defaultContentLanguage = 'en'
+title = 'Aisling Centre'
+theme = 'hugo-universal-theme'
+
+summaryLength = 70
+pluralizelisttitles = false
+
+[pagination]
+    pagerSize = 10
+
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
+
+[permalinks]
+    # news stays at /news/<slug>/ (no date in the URL), matching the old site's flat permalinks
+    news = '/news/:slugorfilename/'
+
+[params]
+    author = "Aisling Centre"
+    defaultDescription = "The Aisling Centre is a professional counselling & psychotherapy service based in Enniskillen, Northern Ireland."
+    mainSections = ["news"]
+
+    logo_text = "Aisling Centre"
+    disabled_logo = false
+    contact_url = "/contact/"
+
+    style = "default"
+
+    date_format = "January 2, 2006"
+    dropdown_mouse_over = true
+
+[params.topbar]
+    enable = false
+
+[params.widgets]
+    categories = true
+    tags = true
+    search = false
+
+[params.carouselHomepage]
+    enable = false
+
+[params.testimonials]
+    enable = false
+
+[params.clients]
+    enable = false
+
+[params.see_more]
+    enable = false
+
+[params.recent_posts]
+    enable = true
+    title = "Latest News"
+
+[params.footer.recent_posts]
+    enable = true
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    identifier = "menu.home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    identifier = "menu.about"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Annual Reports"
+    url = "/about/annual-reports/"
+    weight = 1
+    parent = "menu.about"
+
+[[menu.main]]
+    name = "Gallery"
+    url = "/about/gallery/"
+    weight = 2
+    parent = "menu.about"
+
+[[menu.main]]
+    name = "Jobs & Volunteers"
+    url = "/about/jobs/"
+    weight = 3
+    parent = "menu.about"
+
+[[menu.main]]
+    name = "Counselling"
+    identifier = "menu.counselling"
+    url = "/counselling/"
+    weight = 3
+
+[[menu.main]]
+    name = "Adult Counselling / Psychotherapy"
+    url = "/counselling/adult-counselling-psychotherapy/"
+    weight = 1
+    parent = "menu.counselling"
+
+[[menu.main]]
+    name = "Children Coping With Loss"
+    url = "/counselling/children-coping-with-loss/"
+    weight = 2
+    parent = "menu.counselling"
+
+[[menu.main]]
+    name = "Complementary Therapy"
+    url = "/counselling/complementary-therapy/"
+    weight = 3
+    parent = "menu.counselling"
+
+[[menu.main]]
+    name = "Well-Being & Events"
+    identifier = "menu.wellbeing"
+    url = "/well-being/"
+    weight = 4
+
+[[menu.main]]
+    name = "Annual Events"
+    url = "/well-being/annual-events/"
+    weight = 1
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Cuilcagh Trek"
+    url = "/well-being/annual-events/cuilcagh-trek/"
+    weight = 2
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Hope Healing Growth"
+    url = "/well-being/annual-events/hope-healing-growth/"
+    weight = 3
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Forget Me Not"
+    url = "/well-being/forget-me-not/"
+    weight = 4
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Workshops & Programmes"
+    url = "/well-being/workshops-programmes/"
+    weight = 5
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Meditation Drop-In Sessions"
+    url = "/well-being/meditation-drop-in-sessions/"
+    weight = 6
+    parent = "menu.wellbeing"
+
+[[menu.main]]
+    name = "Community Hub"
+    identifier = "menu.communityhub"
+    url = "/community-hub/"
+    weight = 5
+
+[[menu.main]]
+    name = "Alcoholics Anonymous (AA)"
+    url = "/community-hub/alcoholics-anonymous-aa/"
+    weight = 1
+    parent = "menu.communityhub"
+
+[[menu.main]]
+    name = "Aware NI"
+    url = "/community-hub/aware-ni/"
+    weight = 2
+    parent = "menu.communityhub"
+
+[[menu.main]]
+    name = "Escapists"
+    url = "/community-hub/escapists/"
+    weight = 3
+    parent = "menu.communityhub"
+
+[[menu.main]]
+    name = "Westend Coffee Shop"
+    url = "/community-hub/westend-coffee-shop/"
+    weight = 4
+    parent = "menu.communityhub"
+
+[[menu.main]]
+    name = "Workshops & Classes"
+    url = "/community-hub/workshops-classes/"
+    weight = 5
+    parent = "menu.communityhub"
+
+[[menu.main]]
+    name = "Resources"
+    identifier = "menu.resources"
+    url = "/resources/"
+    weight = 6
+
+[[menu.main]]
+    name = "Information & Support"
+    url = "/resources/information-support/"
+    weight = 1
+    parent = "menu.resources"
+
+[[menu.main]]
+    name = "News"
+    identifier = "menu.news"
+    url = "/news/"
+    weight = 7
+
+[[menu.main]]
+    name = "Support Us"
+    identifier = "menu.supportus"
+    url = "/support-us/"
+    weight = 8
+
+[[menu.main]]
+    name = "Urgent Help"
+    identifier = "menu.urgenthelp"
+    url = "/urgent-help/"
+    weight = 9
+
+[[menu.main]]
+    name = "Contact"
+    identifier = "menu.contact"
+    url = "/contact/"
+    weight = 10
